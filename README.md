@@ -121,7 +121,7 @@ Saba Ahmad
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/SabaAhmad404/Morse-Code-RUBY.git/issues).
+Feel free to check the [issues page](https://github.com/SabaAhmad404/Morse-Code-RUBY/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
