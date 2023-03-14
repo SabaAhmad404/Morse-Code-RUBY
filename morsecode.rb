@@ -18,3 +18,6 @@ end
 def decode(message)
   message.split('   ').map { |morse_word| decode_word(morse_word) }.join(' ')
 end
+
+
+# this is morse code
